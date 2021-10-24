@@ -11,7 +11,7 @@
 - 👩‍💻 I'm inspired by the idea that the ideal workers in 21st century should be 
     ***"someone who does great work, is well rested and healthy, and has a great life outside of work -- not someone trapped in the busy tunnel, chasing their tail, thinking small, and on the road to burn out"***
     > from HBR Guide To - Beating Burnout
-- 🎮 I'm currently obsessed with: Digital Drawing, Boxing via Nintendo Switch, Watching Dota2 TI (annually).
+- 🎮 I'm currently obsessed with Digital Drawing & Doodling, Boxing via Nintendo Switch, Watching Dota2 TI (annually).
 
 
 
