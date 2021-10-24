@@ -30,31 +30,33 @@
 
 [<img align="left" alt="Python" width="26px" height="26px"  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://www.python.org)
 
-[<img align="left" alt="TensorFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />](https://www.tensorflow.org)
+[<img align="left" alt="TensorFlow" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />](https://www.tensorflow.org)
 
-[<img align="left" alt="Keras" width="26px" src="https://en.wikipedia.org/wiki/Keras#/media/File:Keras_logo.svg" />](https://keras.io)
+[<img align="left" alt="Keras" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />](https://keras.io)
 
-[<img align="left" alt="GIS" width="26px" src="https://d346xxcyottdqx.cloudfront.net/wp-content/uploads/2020/03/Screenshot-2020-03-19-at-10.28.52-e1584606673927.png" />](https://www.esri.com/en-us/what-is-gis/overview)
+[<img align="left" alt="GIS" width="26px" height="26px" src="https://d346xxcyottdqx.cloudfront.net/wp-content/uploads/2020/03/Screenshot-2020-03-19-at-10.28.52-e1584606673927.png" />](https://www.esri.com/en-us/what-is-gis/overview)
 
-[<img align="left" alt="Matlab" width="26px" src="https://en.wikipedia.org/wiki/MATLAB#/media/File:Matlab_Logo.png" />](https://www.mathworks.com/products/matlab.html)
+[<img align="left" alt="Matlab" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />](https://www.mathworks.com/products/matlab.html)
  
-[<img align="left" alt="Java" width="26px" src="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg" />](https://www.java.com/en/)
-C
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-Visual studio code 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-pycharm 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-github
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-android studio
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+[<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />](https://www.java.com/en/)
+
+[<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
+
+ 
+[<img align="left" alt="PyCharm" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />](https://www.jetbrains.com/pycharm/)
+
+
+[<img align="left" alt="github" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />](https://github.com/yslidet)
+
+
+[<img align="left" alt="Android Studio" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" />](https://developer.android.com/studio)
+
 Latex 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 Microsoft Office 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 Procreate
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
 <br />
