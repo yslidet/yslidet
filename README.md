@@ -67,6 +67,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAQ: How to get a scholarship? [Answered]](https://lidetys.medium.com/faq-how-to-get-a-scholarship-answered-55f273ba52f7?source=rss-10bc395427ba------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lidetys.medium.com)
