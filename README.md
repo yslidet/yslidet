@@ -5,9 +5,9 @@
 
 ## 👩🏻‍🔬 Researcher by Head,  👩🏻‍💻 Engineer by Heart and 🤓 Geek by Design.
 
-- 🙋‍♀️ I'm pretty much curious about anything. 
-- 🐣 I'm looking to read, write and breath more code.
-- 🤓 I'm a believer that anything can be learned with enough time and effort on the topic. 
+- 🙋‍♀️ I'm driven by interest and curiosity. 
+- 🐣 I'm feeling alive doing anything related to code/experiment/analysis.
+- 🤓 I'm a believer that anything can be learned with hours spent on the topic. 
 - 👩‍💻 I'm inspired by the idea that the ideal workers in 21st century should be 
     ***"someone who does great work, is well rested and healthy, and has a great life outside of work -- not someone trapped in the busy tunnel, chasing their tail, thinking small, and on the road to burn out"***
     > from HBR Guide To - Beating Burnout
