@@ -3,7 +3,7 @@
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
 
-## 👩🏻‍🔬 Researcher by Head,  👩🏻‍💻 Engineer by Heart and 🤓 Geek by Design.
+## 👩🏻‍🔬 Researcher by Head,  👩🏻‍💻 Engineer by Heart and 🤓 Creator by Design.
 ###  🔬 [Latest Research Focus](https://fcl.ethz.ch/people/researchers/seanglidet-yean.html?fbclid=IwAR1wDjPe69UlKY8F9w44ZVuqZS2nfffaCWjzf_Ru1_YGR4FtFBkZjH9XZtE):
 - Leveraging machine perception and generative AI to generate realistic simulations of EV mobility data.
 - Exploring human mobility patterns and energy challenges in EV and Vehicle-to-Grid (V2G) dynamics.
