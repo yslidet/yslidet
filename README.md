@@ -29,15 +29,16 @@
 -	**Pursuing Knowledge**: RAG, Langchainm, Large Language Models (LLMs), MLOps
 
 
+
 ### 💬 Connect with me:
 - LinkedIn: https://www.linkedin.com/in/seanglidet-yean/
 - GitHub: https://github.com/yslidet 
 - Research Gate: https://www.researchgate.net/profile/Seanglidet-Yean
 
 
-### 💼 Looking for Opportunities:
+### 💼 Looking for Opportunities (Data Scientist & AI Scientist roles):
 - Passionate about applying research excellence to real-world challenges.
-- Seeking opportunities in Generative Models, Machine Perception, and Geospatial Data Mining.
+- Seeking opportunities in Generative Models, LLM, Machine Perception, and Geospatial Data Mining.
 
 <br />
 ---
