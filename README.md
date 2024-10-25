@@ -5,8 +5,8 @@
 
 ## 👩🏻‍🔬 Researcher by Head,  👩🏻‍💻 Engineer by Heart and 🤓 Experimentor by Design.
 ###  🔬 [Latest Research Focus](https://fcl.ethz.ch/people/researchers/seanglidet-yean.html?fbclid=IwAR1wDjPe69UlKY8F9w44ZVuqZS2nfffaCWjzf_Ru1_YGR4FtFBkZjH9XZtE):
-- Leveraging machine perception and generative AI to generate realistic simulations of EV mobility data.
-- Exploring human mobility patterns and energy challenges in EV and Vehicle-to-Grid (V2G) dynamics.
+- Developing a synthetic mobility flow algorithm using generative adversarial network, which is adaptable to land-use changes, contributing to predictive analytics in urban planning.
+- Analysed urban human mobility patterns and supported studies on EV mobility patterns’ impact on energy challenges, including EV, BIPV, and V2G, using LBS and GPS data.
 
 ### 🌐 Expertise Highlights:
 
