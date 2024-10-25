@@ -3,7 +3,7 @@
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
 
-## 👩🏻‍🔬 Researcher by Head,  👩🏻‍💻 Engineer by Heart and 🤓 Creator by Design.
+## 👩🏻‍🔬 Researcher by Head,  👩🏻‍💻 Engineer by Heart and 🤓 Experimentor by Design.
 ###  🔬 [Latest Research Focus](https://fcl.ethz.ch/people/researchers/seanglidet-yean.html?fbclid=IwAR1wDjPe69UlKY8F9w44ZVuqZS2nfffaCWjzf_Ru1_YGR4FtFBkZjH9XZtE):
 - Leveraging machine perception and generative AI to generate realistic simulations of EV mobility data.
 - Exploring human mobility patterns and energy challenges in EV and Vehicle-to-Grid (V2G) dynamics.
@@ -20,12 +20,13 @@
 
 
 ### 🚀 Skills:
-- **Programming:** Proficient in Python, and Java.
-- **Data Analysis:** Experienced with tools like Pandas, NumPy, etc.
-- **Machine Learning:** Skilled in TensorFlow and PyTorch frameworks, with expertise in various algorithms.
-- **Big Data:** Familiar with concurrent programming and leveraging multiprocessors to enhance computational efficiency and performance.
-- **Collaboration:** Strong teamwork and communication skills, fostering effective collaboration.
-
+-	**Machine Learning & AI**: Deep Learning, Classification, Generative AI, Large Language Models (LLMs), Computer Vision, Multi-Modal Data Analysis, Real-Time Forecasting,
+-	**Programming & Tools**: Python, PyTorch, PySpark, TensorFlow, SciPy, Pandas, SQL, Git, AWS, Sagemaker
+-	**Data Engineering**: Data Integration, Data Augmentation, Distributed Systems, Data Parallelism
+-	**Modeling & Analytics**: Time Series Analysis, Forecasting Modeling, Prediction Modeling, Statistical Modeling & Analysis, Geospatial Analysis, A/B Testing
+-	**Project & Collaboration**: Project Management, Grant Writing, Leadership, Mentorship, Teamwork, Multi-Disciplinary Collaboration, Technical Writing
+-	**Certifications**: Generative AI with Large Language Models (DeepLearning.AI, 2024)
+-	**Pursuing Knowledge**: RAG, Langchainm, Large Language Models (LLMs), MLOps
 
 
 ### 💬 Connect with me:
