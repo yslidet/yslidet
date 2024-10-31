@@ -28,7 +28,8 @@
 -	**Certifications**: Generative AI with Large Language Models (DeepLearning.AI, 2024)
 -	**Pursuing Knowledge**: RAG, Langchainm, Large Language Models (LLMs), MLOps
 
-
+## 🎨 Hobbies Projects
+> **See more projects on my [Hobbies Page](doc_hobbies/main_hobbies.md)**
 
 ### 💬 Connect with me:
 - LinkedIn: https://www.linkedin.com/in/seanglidet-yean/
