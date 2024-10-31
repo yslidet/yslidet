@@ -8,6 +8,6 @@ There are series such as:
 ---
 
 ### [LiDETry] Multimodel LLM Playgrounds
-**Description:** Using streamlit as a platform to deploy LLM models. It acts as playground to test input prompt to the model.
-**Link to Project:** https://github.com/yslidet/lidetry-llm-playground-streamlit
-**Key Features:** Streamlit, LLM models (gpt-3.5-turbo), deployment
+* **Description:** Using streamlit as a platform to deploy LLM models. It acts as playground to test input prompt to the model.
+* **Link to Project:** https://github.com/yslidet/lidetry-llm-playground-streamlit
+* **Key Features:** Streamlit, LLM models (gpt-3.5-turbo), deployment
