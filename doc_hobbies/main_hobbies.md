@@ -3,7 +3,8 @@
 Welcome to my hobbies portfolio where I try data science, MLalgo or coding projects outside of work. 
 
 There are series such as: 
-* **[LiDETry]** series: Focusing on hands-on projects to learn by doing from referenced tutorials or projects with minor tweak. 
+
+**[LiDETry]** series: Focusing on hands-on projects to learn by doing from referenced tutorials or projects with minor tweak. 
 
 ---
 
