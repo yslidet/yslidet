@@ -10,6 +10,10 @@
 - User-centered design with input from healthcare professionals, in collabroation with social scientists
 
 
+## Program Walk-Through
+![App SingTrace](images/lnf_singtrace.jpeg)
+
+
 ## Key Technologies & Expertise
 - Generative Adversarial Networks (GANs)
 - Indoor Localization, Deep Learning, Real-Time Data Processing
@@ -17,10 +21,6 @@
 - Innovation, Patent Filing & Proof-of-Concept
 - Productization & Deployment
 - Healthcare Technology
-
-
-## Program Walk-Through
-![App SingTrace](images/lnf_singtrace.jpeg)
 
 ## Awards 
 * [Best Paper Award](https://www.ntu.edu.sg/computing/news-events/news/detail/best-paper-at-platcon-2022) at PlatCon2022, titled "Design Principles and considerations for a Localisation Application for Caregivers of People with Dementia"
