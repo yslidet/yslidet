@@ -43,7 +43,7 @@ Building a video-based gait recognition system, using deep learning, human track
 > High-resolution image enhancement and object detection for urban forestry and planning.  
 **Keywords**: SRGANs, Remote Sensing, Tree Mapping, Environmental Analytics
 
-#### 🧭 [[Lost-and-Found] Localisation, Prediction and Intervention for People with Dementia](projects/lost-and-found.md)
+#### 🧭 [[Lost-and-Found] Localisation, Prediction and Intervention for People with Dementia](experience/lost-and-found.md)
 > Indoor localization system using AI and IoT for dementia care, including patented innovations.  
 **Keywords**: Indoor Positioning, GANs, Real-Time Tracking, Assistive Tech, Healthcare AI
 
