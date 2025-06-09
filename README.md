@@ -19,7 +19,9 @@ Open to opportunities in:
 
 ## 🧵 Side Projects
 I explore the intersection of creativity and tech through hands-on projects, data experiments, and visual storytelling.  
+* [[LiDETry] Fine-tuning Gemma with LoRA](https://github.com/yslidet/LiDETry_Gemma)
 * [[LiDETry] Multimodel LLM Playgrounds](https://github.com/yslidet/lidetry-llm-playground-streamlit)
+* [Multiprocessing with Multi-Return Functions in Python](https://github.com/yslidet/Python-MultiProcess-MultiInput)
 
 → [View More Side Projects](doc/projects/main_hobbies.md)
 
