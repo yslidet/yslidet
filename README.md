@@ -48,7 +48,7 @@
 
 
 ## 🎨 Hobbies Projects
-> **See more projects on my [Hobbies Page](doc_hobbies/main_hobbies.md)**
+> **See more projects on my [Hobbies Page](doc/hobbies/main_hobbies.md)**
 
 ## 💬 Connect with me:
 - LinkedIn: https://www.linkedin.com/in/seanglidet-yean/
