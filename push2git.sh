@@ -2,7 +2,7 @@
 
 # >>> ADD GITignore <<<
 git add .
-git commit -m "UPDATE to profile 3.0"
+git commit -m "UPDATE Projects"
 git push origin master
 
 # >>> ADD GITignore <<<
