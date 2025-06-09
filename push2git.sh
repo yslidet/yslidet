@@ -3,7 +3,7 @@
 # >>> ADD GITignore <<<
 git add .
 git commit -m "UPDATE to profile 3.0"
-git push origin main
+git push origin master
 
 # >>> ADD GITignore <<<
 # git ls-files --ignored --exclude-standard -z | xargs -0 git rm --cached
