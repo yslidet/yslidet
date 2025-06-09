@@ -5,56 +5,55 @@
 
  👩🏻‍🔬 Researcher by Head,  👩🏻‍💻 Engineer by Heart and 🤓 Experimentor by Design.
 
-### 💼 Looking for Opportunities (Data Scientist & AI Scientist):
-- Passionate about applying research excellence to real-world challenges (production at scale).
-- Seeking opportunities in **Data Scientist or AI Scientist Roles** (Generative Models, LLM, Machine Perception, and Geospatial Data Mining).
+## 🔍 [What I Do](aboutme/profolio_resume.md)
 
-## 🚀 Skills:
--	**Machine Learning & AI**: Deep Learning, Classification, Generative AI, Large Language Models (LLMs), Computer Vision, Multi-Modal Data Analysis, Real-Time Forecasting,
--	**Programming & Tools**: Python, PyTorch, PySpark, TensorFlow, SciPy, Pandas, SQL, Git, AWS, Sagemaker
--	**Data Engineering**: Data Integration, Data Augmentation, Distributed Systems, Data Parallelism
--	**Modeling & Analytics**: Time Series Analysis, Forecasting Modeling, Prediction Modeling, Statistical Modeling & Analysis, Geospatial Analysis, A/B Testing
--	**Project & Collaboration**: Project Management, Grant Writing, Leadership, Mentorship, Teamwork, Multi-Disciplinary Collaboration, Technical Writing
--	**Certifications**: Generative AI with Large Language Models (DeepLearning.AI, 2024)
--	**Pursuing Knowledge**: RAG, Langchainm, Large Language Models (LLMs), MLOps
+I build intelligent systems that bridge research and real-world deployment, with a focus on:
 
+- Foundation & Generative AI
+- Vision & Perception Systems
+- Spatial Intelligence & Urban Analytics
+- Applied AI in Infrastructure & Healthcare
 
-##  🔬 [Latest Research Focus](https://fcl.ethz.ch/people/researchers/seanglidet-yean.html?fbclid=IwAR1wDjPe69UlKY8F9w44ZVuqZS2nfffaCWjzf_Ru1_YGR4FtFBkZjH9XZtE):
-- Developing a synthetic mobility flow algorithm using generative adversarial network, which is adaptable to land-use changes, contributing to predictive analytics in urban planning.
-- Analysed urban human mobility patterns and supported studies on EV mobility patterns’ impact on energy challenges, including EV, BIPV, and V2G, using LBS and GPS data.
+Open to opportunities in:  
+**AI Researcher**  |  **Data Scientist** | **Applied AI Researcher**
 
-## 🌐 Expertise Highlights:
+## 🧵 Side Projects
+I explore the intersection of creativity and tech through hands-on projects, data experiments, and visual storytelling.  
+* [[LiDETry] Multimodel LLM Playgrounds](https://github.com/yslidet/lidetry-llm-playground-streamlit)
 
-- **Machine Perception:** Adept at leading data science projects that bridge remote sensing and tree modeling, designing street-tree detection experiments, and developing Super-resolution GANs for satellite imagery enhancement. Extensive experience in object detection, geo-localization, and socio-economic analysis.
+→ [View More Side Projects](doc/projects/main_hobbies.md)
 
-- **Generative AI:** Proficient in designing and implementing GANs models, particularly demonstrated in a project addressing dementia-related challenges, specifically wandering behavior. Successfully applied GANs for generating synthetic data, leading to technical disclosures, a patent, and a tech offer. Expertise includes GANs, indoor positioning, and deep learning applications.
+## 📂 Featured Projects
 
-- **Geospatial Data Mining:** Experienced in fusing geospatial data and machine perception, focusing on urban mobility and electric vehicle strategies. Leveraged location-based services and mobility data to derive insights into spatial-temporal flow and behavioral patterns. Keywords: Location-based Services, Urban Mobility, Spatial-temporal Flow, Behavioral Pattern.
+### 🔬 Current Research Focus
+Building a video-based gait recognition system, using deep learning, human tracking, and multi-modal video inputs in real-world environments.
 
-- **Positioning and Navigation:** Extensive contributions to the field, ranging from developing an Indoor Localization System using Deep Learning and IoT. A key contributor to the development of an Indoor Localization System and a prototype for locating wandering individuals with dementia, demonstrating real-world viability.
-
-## 📂 Professional Experience Projects
-**[POW]: Powering the City**
-- **Role Summary:** Optimizing data pipelines and generating synthetic mobility data for smart city analytics. Uses PySpark and GANs to enhance data processing and support urban energy forecasts.
-- **Core Skills:** Data Engineering, Predictive Modelling, Generative AI (GANs), Machine Learning, Geospatial Analytics, Urban Mobility, Renewable Energy Systems, Time Series Analysis, Data-Driven Decision Making, Smart Cities
-
-**[NSTIP]: Bridging the gap between remote sensing and tree modelling with data science**
-- **Role Summary:** Led geospatial data science projects using advanced machine learning and computer vision techniques for image enhancement, environmental analysis, and digital twin applications.
-- **Core Skills:** Deep Learning, Computer Vision, Satellite Imagery, SRGANs, Environmental Data Science, Remote Sensing, Multidisciplinary Research, Data Integration, Socio-Economic Analytics, Grant Writing 
-
-**[Lost-and-Found]: Localisation, Prediction and Intervention for People with Dementia**
-- **Role Summary:** Developed advanced AI-driven solutions for indoor localization and dementia care, achieving high accuracy in real-time tracking, pioneering synthetic data generation to reduce collection time, and transitioning research to commercial products with successful patents and deployments. Led cross-functional teams, collaborated with stakeholders, and earned recognition for impactful innovations in healthcare tech.
-- **Core Skills:** Generative Adversarial Networks (GANs), Indoor Localization, IoT, Deep Learning, Real-Time Data Processing, Technical Innovation, Proof-of-Concept, Patent Filing, Productization, Healthcare Technology
+### 🗃️ [KhmerLLM Development – AI Forum & SEA-Lion](https://www.aiforumcambodia.org/publications/ai-insights-no-14-2025-machine-translation-bridging-khmer-language-and-large-language-models-llms/)
+> Collaborating with AI Forum (Cambodia) and SEA-Lion (Singapore) to develop a Khmer Large Language Model, demonstrating the value of open Khmer data.
+**Keywords**: south-east asia language, Khmer, LLM, gemini, qwen
 
 
-## 🎨 Hobbies Projects
-> **See more projects on my [Hobbies Page](doc/hobbies/main_hobbies.md)**
+#### 🔌 [[POW] Powering the City](https://fcl.ethz.ch/people/researchers/seanglidet-yean.html?fbclid=IwAR1wDjPe69UlKY8F9w44ZVuqZS2nfffaCWjzf_Ru1_YGR4FtFBkZjH9XZtE)
+> Synthetic mobility flow generation using GANs to support energy-efficient city planning.  
+**Keywords**: Geospatial AI, Time Series, Smart Cities, GANs, PySpark
+
+#### 🌿 [[NSTIP] Bridging the gap between remote sensing and tree modelling with data science]([projects/nstip/README.md](https://www.landcareresearch.co.nz/discover-our-research/land/land-and-soil-resources/bridging-the-gap-between-remote-sensing-and-tree-modelling-with-data-science/))
+> High-resolution image enhancement and object detection for urban forestry and planning.  
+**Keywords**: SRGANs, Remote Sensing, Tree Mapping, Environmental Analytics
+
+#### 🧭 [[Lost-and-Found] Localisation, Prediction and Intervention for People with Dementia](projects/lost-and-found.md)
+> Indoor localization system using AI and IoT for dementia care, including patented innovations.  
+**Keywords**: Indoor Positioning, GANs, Real-Time Tracking, Assistive Tech, Healthcare AI
+
+
+→ [View All Projects](doc/experience/prefession_experience.md)
+→ [View Research Profile](https://www.researchgate.net/profile/Seanglidet-Yean)
+
+
 
 ## 💬 Connect with me:
-- LinkedIn: https://www.linkedin.com/in/seanglidet-yean/
-- GitHub: https://github.com/yslidet 
-- Research Gate: https://www.researchgate.net/profile/Seanglidet-Yean
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seanglidet-yean/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/yslidet) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Seanglidet-Yean)
 
 
 <br />

@@ -5,9 +5,19 @@
 
  👩🏻‍🔬 Researcher by Head,  👩🏻‍💻 Engineer by Heart and 🤓 Experimentor by Design.
 
-### 💼 Looking for Opportunities (Data Scientist & AI Scientist):
-- Passionate about applying research excellence to real-world challenges (production at scale).
-- Seeking opportunities in **Data Scientist or AI Scientist Roles** (Generative Models, LLM, Machine Perception, and Geospatial Data Mining).
+---
+
+## 🔍 What I Do
+
+I build intelligent systems that bridge research and real-world deployment, with a focus on:
+
+- **Foundation & Generative AI**: Pretraining, fine-tuning, and deploying LLMs and GANs models  
+- **Vision & Perception Systems**: Multimodal understanding, object detection, and real-world video inference  
+- **Spatial Intelligence & Urban Analytics**: Mobility modeling, indoor localization, geospatial AI, and location-based service optimization
+- **Applied AI in Infrastructure & Healthcare**: Scalable AI for smart cities, assistive tech, and clinical systems
+
+Open to opportunities in:  
+**AI Researcher**  |  **Data Scientist** | **Applied AI Researcher**
 
 ## 🚀 Skills:
 -	**Machine Learning & AI**: Deep Learning, Classification, Generative AI, Large Language Models (LLMs), Computer Vision, Multi-Modal Data Analysis, Real-Time Forecasting,
@@ -16,7 +26,7 @@
 -	**Modeling & Analytics**: Time Series Analysis, Forecasting Modeling, Prediction Modeling, Statistical Modeling & Analysis, Geospatial Analysis, A/B Testing
 -	**Project & Collaboration**: Project Management, Grant Writing, Leadership, Mentorship, Teamwork, Multi-Disciplinary Collaboration, Technical Writing
 -	**Certifications**: Generative AI with Large Language Models (DeepLearning.AI, 2024)
--	**Pursuing Knowledge**: RAG, Langchainm, Large Language Models (LLMs), MLOps
+-	**Pursuing Knowledge**: RAG, Langchain, Large Language Models (LLMs), MLOps
 
 
 ##  🔬 [Latest Research Focus](https://fcl.ethz.ch/people/researchers/seanglidet-yean.html?fbclid=IwAR1wDjPe69UlKY8F9w44ZVuqZS2nfffaCWjzf_Ru1_YGR4FtFBkZjH9XZtE):
