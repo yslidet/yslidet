@@ -2,7 +2,8 @@
 
 # >>> ADD GITignore <<<
 git add .
-git commit -m "UPDATE Projects"
+git commit -m "UPDATE hobby project - youtube downloader"
+# git commit -m "UPDATE Projects"
 git push origin master
 
 # >>> ADD GITignore <<<
