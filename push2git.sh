@@ -2,7 +2,7 @@
 
 # >>> ADD GITignore <<<
 git add .
-git commit -m "UPDATE hobby project - youtube downloader"
+git commit -m "UPDATE plug-and-play guide - docker"
 # git commit -m "UPDATE Projects"
 git push origin master
 

@@ -17,7 +17,7 @@ I build intelligent systems that bridge research and real-world deployment, with
 Open to opportunities in:  
 **AI Researcher**  |  **Data Scientist** | **Applied AI Researcher**
 
-## 🧵 Side Projects
+## 🧵 Weekend Projects
 I explore the intersection of creativity and tech through hands-on projects, data experiments, and visual storytelling.  
 * [One-Stop Youtube Downloader](https://github.com/yslidet/Youtube-Download.git)
 * [[LiDETry] Fine-tuning Gemma with LoRA](https://github.com/yslidet/LiDETry_Gemma)
@@ -25,6 +25,9 @@ I explore the intersection of creativity and tech through hands-on projects, dat
 * [Multiprocessing with Multi-Return Functions in Python](https://github.com/yslidet/Python-MultiProcess-MultiInput)
 
 → [View More Side Projects](doc/projects/main_hobbies.md)
+
+## 🔌 Plug-and-Play Guide 
+* [Quick-start Docker](https://github.com/yslidet/ML-Project---Docker-Guide) 
 
 ## 📂 Featured Projects
 
